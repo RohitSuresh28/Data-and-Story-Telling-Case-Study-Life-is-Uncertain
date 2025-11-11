@@ -1,0 +1,1928 @@
+{
+  "metadata": {
+    "total_persons": 100783,
+    "processed": 100,
+    "successful": 82,
+    "failed": 0,
+    "timestamp": "2025-11-12T01:06:00.973507"
+  },
+  "results": [
+    {
+      "person_id": 0,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "language school teacher",
+        "first_job_period": "Q3 1996 to Q1 2000",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a language school teacher does not appear to have set a direct foundation for the subsequent roles, as the career trajectory takes a significant turn with the transition to ICT help desk agent. The career evolves with various roles in ICT, customer service, and management, indicating a career pivot. The language school teacher role seems to be an isolated starting point, and the career trajectory remains inconsistent, with multiple transitions and pivots. The overall impact of the first job on the career path appears to be minimal, as the individual's career takes on a life of its own, with various roles and industries explored. The university studies accompanying each job suggest a continuous pursuit of knowledge, but the connection to the first job is not evident. The career trajectory is marked by a series of transitions, with the individual adapting to new roles and industries, indicating a high degree of flexibility and a willingness to explore different career paths.",
+        "key_transitions": [
+          "language school teacher to ICT help desk agent",
+          "ICT help desk agent to ICT help desk manager",
+          "customer contact centre information clerk to move manager",
+          "product development engineering drafter to programme manager",
+          "integration engineer to resource manager and health and safety officer"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the career trajectory is marked by multiple transitions and pivots, with little connection to the initial role as a language school teacher."
+      },
+      "career_summary": {
+        "total_jobs": 10,
+        "first_job": "language school teacher",
+        "last_job": "health and safety officer",
+        "career_span": "Q3 1996 to Q2 2019"
+      }
+    },
+    {
+      "person_id": 1,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "infantry soldier",
+        "first_job_period": "Q1 1994 to Q4 1996",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as an infantry soldier does not appear to have set a direct foundation for subsequent roles, as the career trajectory takes a significant turn after this initial position. The career evolved from a role that involves combat and defense services to one that involves supervision and eventually, telecommunications and software analysis. This shift indicates a career pivot, where the individual transitioned from a role that requires physical bravery and combat skills to roles that require analytical and technical skills. The overall impact of the first job on the career path seems minimal, as the skills and knowledge gained in this role do not directly translate to the subsequent roles.",
+        "key_transitions": [
+          "From infantry soldier to security guard supervisor",
+          "From security guard supervisor to telecommunications analyst",
+          "From telecommunications analyst to software analyst"
+        ],
+        "conclusion": "No, the first job did not matter significantly in shaping the person's career path, as the skills and experiences gained in this role do not appear to have a direct impact on the subsequent roles, and the career trajectory involves significant pivots and transitions."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "infantry soldier",
+        "last_job": "software analyst",
+        "career_span": "Q1 1994 to Q3 2018"
+      }
+    },
+    {
+      "person_id": 2,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "technical sales representative in office machinery and equipment",
+        "first_job_period": "Q1 1995 to Q4 2001",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a technical sales representative in office machinery and equipment did not set a clear foundation for subsequent roles, as the career trajectory shows significant deviations. The transition from technical sales to an office clerk role, and later to an accountant, indicates a lack of direct correlation between the first job and the subsequent roles. The career evolved with a notable pivot from sales and clerical work to a professional role in accounting, suggesting that the individual's career trajectory was not heavily influenced by the first job. The overall impact of the first job on the career path appears to be minimal, with the individual exploring different fields before settling into a role that requires specialized education and training, such as accounting.",
+        "key_transitions": [
+          "Technical sales to office clerk",
+          "Office clerk to accountant"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as evidenced by the drastic career pivots and the lack of a clear, consistent trajectory."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "technical sales representative in office machinery and equipment",
+        "last_job": "accountant",
+        "career_span": "Q1 1995 to Q4 2015"
+      }
+    },
+    {
+      "person_id": 9,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "receptionist",
+        "first_job_period": "Q1 2012 to Q2 2012",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as a receptionist set a foundation for subsequent roles, as the individual continued to work in similar administrative and customer-facing positions. The career evolved with the individual taking on various receptionist roles, with some overlap in job periods, indicating a high level of consistency in the career path. There was no significant career pivot, as the individual remained in the administrative support field, with the majority of roles being receptionist positions. The first job had a strong influence on the career path, as it established a pattern of administrative work that continued throughout the individual's career.",
+        "key_transitions": [
+          "From receptionist to administrative assistant (Job 3)",
+          "From administrative assistant back to receptionist (Job 4)",
+          "From receptionist to post office counter clerk (Job 5)"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it established a pattern of administrative work that continued throughout the individual's career, with the majority of roles being receptionist positions, indicating a strong influence of the first job on the career path."
+      },
+      "career_summary": {
+        "total_jobs": 11,
+        "first_job": "receptionist",
+        "last_job": "receptionist",
+        "career_span": "Q1 2012 to Q4 2016"
+      }
+    },
+    {
+      "person_id": 15,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "translator",
+        "first_job_period": "Q1 1996 to Q4 2002",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a translator does not appear to have set a direct foundation for subsequent roles, as the career path diverged significantly. The transition from a translator to a communication manager could be seen as somewhat related, given the importance of language and communication in both roles. However, the subsequent shift into nursing and healthcare roles marks a significant career pivot, suggesting that the first job's influence was not strongly determinant of the overall career trajectory. The career evolution shows a mix of roles that, while important in their respective fields, do not follow a linear or highly consistent path from the starting point of translation. This suggests that while the individual's skills and education were adaptable, the first job itself did not have a lasting, direct impact on the career path.",
+        "key_transitions": [
+          "From translator to communication manager",
+          "From communication manager to nurse responsible for general care",
+          "From nurse to healthcare assistant"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as evidenced by the major career pivots and the lack of a consistent trajectory directly building upon the initial role of a translator."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "translator",
+        "last_job": "healthcare assistant",
+        "career_span": "Q1 1996 to Q3 2012"
+      }
+    },
+    {
+      "person_id": 17,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 20,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "nurse responsible for general care",
+        "first_job_period": "Q1 1985 to Q4 1989",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as a nurse responsible for general care set a foundation for subsequent roles, as the individual remained in the nursing profession for over two decades. The career evolved with the individual continuing to work in the same capacity, with the same job title and code, indicating a high level of consistency. However, the transition to the fifth job as a residential home young people care worker marked a significant pivot, as the individual shifted from general nursing care to a specialized role focused on supporting young people with complex emotional needs. This pivot suggests that while the first job had a strong influence on the career path, the individual was able to adapt and transition into a new role. The overall impact of the first job on the career path was significant, as it established a foundation in healthcare and nursing, which the individual built upon throughout their career.",
+        "key_transitions": [
+          "Transition from general nursing care to specialized care for young people with complex emotional needs (Job 4 to Job 5)"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it established a foundation in nursing and healthcare, which the individual built upon for over two decades, and ultimately influenced their transition into a specialized role in residential care."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "nurse responsible for general care",
+        "last_job": "residential home young people care worker",
+        "career_span": "Q1 1985 to Q4 2016"
+      }
+    },
+    {
+      "person_id": 21,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "history teacher secondary school",
+        "first_job_period": "Q4 2015 to Q1 2016",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as a history teacher at a secondary school set a clear foundation for the subsequent role, as the individual continued to work in the same position. The career evolved seamlessly from the first job, with no significant changes in job title, responsibilities, or industry. This suggests a high level of consistency in the career trajectory, with no major pivots or transitions. The first job had a strong influence on the career path, as it established the individual's expertise and experience in teaching history at the secondary school level. The fact that the individual continued in the same role after the initial period suggests that they found the work fulfilling and were able to build on their skills and experience. Overall, the first job played a crucial role in shaping the individual's career path, as it provided a solid foundation for future growth and development. The lack of significant changes in the career trajectory also suggests that the individual was able to find a good fit in their first job, and was able to continue to work in a field that aligned with their skills and interests. The consistency in the career path also indicates that the individual was able to build on their experience and expertise, and was able to make a smooth transition to the next phase of their career.",
+        "key_transitions": [],
+        "conclusion": "yes, the first job had a significant influence on the career path, as it established the individual's expertise and experience in teaching history at the secondary school level, and provided a solid foundation for future growth and development."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "history teacher secondary school",
+        "last_job": "history teacher secondary school",
+        "career_span": "Q4 2015 to Q2 2016"
+      }
+    },
+    {
+      "person_id": 24,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "horticulture worker",
+        "first_job_period": "Q1 2004 to Q4 2010",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a horticulture worker does not appear to have set a direct foundation for the subsequent role as a commercial sales representative. The career evolved significantly from the first job, with a shift from a practical, hands-on role in horticulture to a sales position in a potentially unrelated field. This transition suggests a career pivot, as the skills and knowledge required for these roles are quite different. The overall impact of the first job on the career path seems minimal, as the individual's career trajectory took a distinct turn after the first job, with no clear connection between the two roles.",
+        "key_transitions": [
+          "Shift from horticulture to sales",
+          "Transition from a practical role to a representative position"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as the transition to the second job represents a substantial career pivot with little apparent connection between the two roles."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "horticulture worker",
+        "last_job": "commercial sales representative",
+        "career_span": "Q1 2004 to Q4 2013"
+      }
+    },
+    {
+      "person_id": 26,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "food service worker",
+        "first_job_period": "Q1 2006 to Q2 2011",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a food service worker does not appear to have set a direct foundation for the subsequent roles in distribution management and logistics analysis. The career evolved significantly from the first job, with a notable shift towards roles that require planning, management, and analysis. This suggests a career pivot, as the individual transitioned from a hands-on service role to more strategic and managerial positions. The overall impact of the first job on the career path seems minimal, as the skills and responsibilities of the first job do not directly align with those of the later roles.",
+        "key_transitions": [
+          "Transition from food service to distribution management",
+          "Transition from distribution management to logistics analysis"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as the skills and responsibilities of the first job do not directly align with those of the later roles, indicating a career pivot rather than a consistent trajectory."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": " food service worker",
+        "last_job": "logistics analyst",
+        "career_span": "Q1 2006 to Q2 2017"
+      }
+    },
+    {
+      "person_id": 28,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "secretary of state",
+        "first_job_period": "Q1 2000 to Q4 2004",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a secretary of state provided a foundation in governance and policy, but its influence on subsequent roles is not immediately apparent. The career evolved significantly from the first job, with a shift from governance to insurance and then to administrative support. This trajectory suggests a career pivot, as the individual transitioned from a high-level government role to more specialized and then supportive roles. The overall impact of the first job on the career path appears to be limited, as the individual's career took a distinct turn after the initial government positions.",
+        "key_transitions": [
+          "Transition from governance to insurance (Job 3)",
+          "Shift from insurance to administrative support (Job 4)"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as the individual's career took a distinct turn after the initial government positions, indicating a limited long-term impact of the first job on the overall career trajectory."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "secretary of state",
+        "last_job": "administrative assistant",
+        "career_span": "Q1 2000 to Q4 2016"
+      }
+    },
+    {
+      "person_id": 29,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "call centre agent",
+        "first_job_period": "Q1 2011 to Q4 2012",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a call centre agent may have laid the groundwork for subsequent customer-facing roles, such as client relations manager and customer service representative. However, the career trajectory also shows a significant pivot towards journalism, which may not be directly related to the skills gained in the first job. The evolution of the career path suggests that the individual explored various roles, potentially leveraging transferable skills such as communication and problem-solving. Despite the pivot, the first job may have still had an impact on the development of these skills, which were later applied in different contexts.",
+        "key_transitions": [
+          "From call centre agent to client relations manager",
+          "From customer service representative to journalist"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it likely helped develop essential communication and customer service skills that were applied in subsequent roles, even if the career path took a different turn with the pivot to journalism."
+      },
+      "career_summary": {
+        "total_jobs": 8,
+        "first_job": "call centre agent",
+        "last_job": "journalist",
+        "career_span": "Q1 2011 to Q4 2016"
+      }
+    },
+    {
+      "person_id": 30,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "physiotherapy assistant",
+        "first_job_period": "Q2 2010 to Q3 2010",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a physiotherapy assistant does not appear to have set a direct foundation for subsequent roles, as the career trajectory shows a shift towards education and childcare. The career evolved significantly from the first job, with roles in childcare, teaching, and education, indicating a career pivot. The transition from a physiotherapy assistant to a child day care worker, and then to early years teaching assistant and teacher, suggests a move towards working with children and education. However, the pivot towards drama and physical education teaching, and eventually an academic support officer, indicates a broader interest in education and student support, rather than a direct continuation of the first job's focus on physiotherapy. The overall impact of the first job on the career path seems limited, as the individual's career trajectory has been marked by significant changes in role and industry.",
+        "key_transitions": [
+          "From physiotherapy assistant to child day care worker",
+          "From early years teaching assistant to early years teacher",
+          "From early years teacher to drama and physical education teacher",
+          "From teaching roles to academic support officer"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the individual's career trajectory has been marked by significant changes in role and industry, indicating a weak influence of the first job on the overall career path."
+      },
+      "career_summary": {
+        "total_jobs": 7,
+        "first_job": "physiotherapy assistant",
+        "last_job": "academic support officer",
+        "career_span": "Q2 2010 to Q4 2017"
+      }
+    },
+    {
+      "person_id": 37,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "social care worker",
+        "first_job_period": "Q2 2003 to Q2 2008",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a social care worker provided a foundation in supporting and helping individuals, which could have potentially led to roles in similar fields such as counseling or healthcare management. However, the career evolved significantly with the transition to an administrative assistant role, which seems unrelated to the skills and expertise gained in the first job. This transition indicates a career pivot, where the individual shifted from a role focused on social care to one focused on administrative support. The overall impact of the first job on the career path appears to be minimal, as the skills and experience gained do not seem to have directly influenced the subsequent role.",
+        "key_transitions": [
+          "Shift from social care to administrative support"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as the transition to the administrative assistant role represents a substantial departure from the skills and expertise gained in the first job."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "social care worker",
+        "last_job": "administrative assistant",
+        "career_span": "Q2 2003 to Q1 2011"
+      }
+    },
+    {
+      "person_id": 46,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "funeral services director",
+        "first_job_period": "Q1 1983 to Q4 1986",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a funeral services director does not appear to have set a direct foundation for subsequent roles, as the individual transitioned into commercial sales representative positions. The career evolved significantly from the first job, with the individual spending the majority of their career in sales roles. There was a notable career pivot from funeral services to commercial sales, indicating that the first job did not have a lasting impact on the overall career trajectory. The individual's career path was marked by inconsistency, with multiple transitions between sales and other roles, such as accounting assistant.",
+        "key_transitions": [
+          "funeral services director to commercial sales representative",
+          "commercial sales representative to accounting assistant",
+          "accounting assistant to commercial sales representative"
+        ],
+        "conclusion": "no, the first job did not significantly influence the person's career path, as evidenced by the drastic career pivot and lack of consistency in their career trajectory"
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "funeral services director",
+        "last_job": "commercial sales representative",
+        "career_span": "Q1 1983 to Q4 2017"
+      }
+    },
+    {
+      "person_id": 48,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "sales assistant",
+        "first_job_period": "Q2 2013 to Q3 2014",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a sales assistant did not appear to set a direct foundation for the subsequent role as a warehouse manager. The career evolved significantly from the first job, with a transition from a customer-facing role to a management position in a logistics context. This indicates a career pivot, as the skills and responsibilities of the two roles are quite different. The overall impact of the first job on the career path seems limited, as the person moved into a distinct field and role type after only one year in the initial position.",
+        "key_transitions": [
+          "Transition from sales to logistics",
+          "Shift from assistant to management role"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, primarily due to the distinct career pivot into a different field and role type after a relatively short period in the initial position."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "sales assistant",
+        "last_job": "warehouse manager",
+        "career_span": "Q2 2013 to Q4 2014"
+      }
+    },
+    {
+      "person_id": 49,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "bartender",
+        "first_job_period": "Q1 2014 to Q4 2018",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a bartender does not appear to have set a direct foundation for the subsequent roles, as the person transitioned into vastly different fields such as warehouse work, solar energy technician, and accounting. The career evolved with the person taking on multiple roles simultaneously, indicating a possible exploration phase. There was a significant career pivot from service and manual labor to a professional role like accounting, suggesting that the first job did not have a lasting impact on the career trajectory. The overall impact of the first job on the career path seems minimal, as the person's career evolved in a non-linear fashion, exploring different industries and roles.",
+        "key_transitions": [
+          "bartender to warehouse worker",
+          "warehouse worker to solar energy technician",
+          "solar energy technician to accountant"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the person's career trajectory was marked by multiple pivots and explorations into different fields, with no clear connection to the initial role as a bartender."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "bartender",
+        "last_job": "accountant",
+        "career_span": "Q1 2014 to Q4 2017"
+      }
+    },
+    {
+      "person_id": 65,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "administrative assistant",
+        "first_job_period": "Q1 2012 to Q2 2012",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as an administrative assistant provided a foundation in office support and administrative tasks, which is evident in the subsequent roles such as human resources assistant and payroll clerk. The career evolved with a mix of administrative and human resources roles, indicating a moderate level of consistency. However, the transition to a shop assistant role in the later part of the career trajectory suggests a pivot, which may not be directly related to the first job. The overall impact of the first job on the career path is moderate, as it laid the groundwork for administrative and support roles, but the career trajectory did not remain entirely consistent. The first job's influence can be seen in the early stages of the career, but its impact diminishes as the career progresses. The career path's medium level of consistency suggests that while the first job played a role, it was not the sole determining factor in the person's career trajectory.",
+        "key_transitions": [
+          "From administrative assistant to human resources assistant",
+          "From payroll clerk to shop assistant"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it provided a foundation in administrative tasks and office support, which was built upon in subsequent roles, even if the career trajectory was not entirely linear."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "administrative assistant",
+        "last_job": "shop assistant",
+        "career_span": "Q1 2012 to Q2 2017"
+      }
+    },
+    {
+      "person_id": 71,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "university teaching assistant",
+        "first_job_period": "Q1 2008 to Q2 2012",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a university teaching assistant laid the groundwork for developing strong communication and organizational skills, which are valuable in various professions. However, the career trajectory shows a shift from education to recruitment and employment services. The transition from a teaching assistant to a recruitment consultant and then to an employment agent indicates a career evolution towards roles that involve matching candidates with job opportunities. While the first job did not directly lead to the subsequent roles, it likely helped in developing transferable skills such as public speaking, leadership, and time management. The career path remained somewhat consistent in terms of working with people and providing services, but there was a pivot from education to human resources and recruitment. The overall impact of the first job on the career path is moderate, as it contributed to the development of useful skills but did not directly determine the subsequent career choices.",
+        "key_transitions": [
+          "From university teaching assistant to recruitment consultant",
+          "From recruitment consultant to employment agent"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it helped develop essential skills that are applicable to various professions, even though the career path took a different direction than what the first job might have suggested."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "university teaching assistant",
+        "last_job": "employment agent",
+        "career_span": "Q1 2008 to Q3 2013"
+      }
+    },
+    {
+      "person_id": 72,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "kitchen assistant",
+        "first_job_period": "Q2 2018 to Q3 2018",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a kitchen assistant does not appear to have set a foundation for the subsequent role as an electrical engineering technician. The career evolved significantly from the first job, with a transition from a service-oriented role to a technical field. This suggests a career pivot, as the skills and knowledge required for these roles are quite different. The overall impact of the first job on the career path seems minimal, as the individual quickly transitioned into a distinct field, indicating that the first job may not have played a crucial role in shaping their long-term career trajectory. The fact that the person was pursuing university studies during both jobs suggests that their academic pursuits may have had a more significant influence on their career path than their initial job. Furthermore, the short duration of the first job and the lack of direct connection to the second job's field imply that the first job was likely a temporary or exploratory position rather than a foundational step in their career.",
+        "key_transitions": [
+          "Transition from kitchen assistant to electrical engineering technician",
+          "Pursuit of university studies during both jobs"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as it does not appear to have provided a foundation for subsequent roles or influenced the career path in a meaningful way."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "kitchen assistant",
+        "last_job": "electrical engineering technician",
+        "career_span": "Q2 2018 to Q1 2019"
+      }
+    },
+    {
+      "person_id": 76,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 77,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "accounting assistant",
+        "first_job_period": "Q1 2012 to Q3 2012",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as an accounting assistant laid a foundational understanding of financial principles and practices, which is evident in the subsequent roles. The career evolved from a support role in accounting to a more managerial role in project management, and then to a specialized role in financial control. This evolution indicates a career trajectory that remained somewhat consistent in terms of the financial and managerial aspects, but with a notable pivot from support to leadership and specialization. The first job's influence can be seen in how it likely prepared the individual for handling financial data and understanding the importance of accurate accounting, skills that are valuable in both project management and financial control.",
+        "key_transitions": [
+          "From accounting assistant to project manager, indicating a shift from a specialized support role to a broader managerial role",
+          "From project manager to financial controller, showing a return to and specialization in financial aspects with a higher level of responsibility"
+        ],
+        "conclusion": "yes, because the foundational knowledge and skills gained in the first job as an accounting assistant moderately influenced the career path, preparing the individual for more complex and responsible roles in finance and management."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "accounting assistant",
+        "last_job": "financial controller",
+        "career_span": "Q1 2012 to Q4 2013"
+      }
+    },
+    {
+      "person_id": 81,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "shop assistant",
+        "first_job_period": "Q1 2012 to Q4 2012",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a shop assistant laid the groundwork for subsequent roles in sales, such as the clothing specialised seller and motor vehicles specialised seller. These roles built upon the foundational skills of providing customer advice and selling products, which were initially developed in the shop assistant position. However, the career trajectory took a turn with the introduction of the hand packer role, which marked a significant departure from the sales-oriented jobs. This pivot could be attributed to a desire for a change in work environment or a need for a role with potentially more stable hours or different challenges. Despite this shift, the early experience in sales likely contributed to the development of valuable skills such as communication, customer service, and adaptability, which are beneficial across various industries and roles.",
+        "key_transitions": [
+          "From shop assistant to sales roles (clothing and motor vehicles specialised seller)",
+          "Introduction of the hand packer role, marking a departure from sales",
+          "Repetition of the hand packer role, indicating a potential stabilization in career path"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it established foundational skills in customer service and sales, which were utilized in subsequent roles, even if the career path eventually pivoted towards a different type of work."
+      },
+      "career_summary": {
+        "total_jobs": 6,
+        "first_job": "shop assistant",
+        "last_job": "hand packer",
+        "career_span": "Q1 2012 to Q1 2019"
+      }
+    },
+    {
+      "person_id": 82,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "dietetic technician",
+        "first_job_period": "Q4 2011 to Q1 2012",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as a dietetic technician set a foundation for the subsequent role, as the person continued to work in the same position. The career evolved from the first job with a seamless transition to the second job, with no significant changes in job title, description, or responsibilities. The trajectory remained consistent, with the person continuing to work under the supervision of a dietitian and assisting in planning nutritional programs and menus for patients. The first job had a significant impact on the career path, as it established the person's expertise and experience in the field of dietetics. The fact that the person continued to work in the same role suggests that the first job provided a solid foundation for future career growth. The consistency in job title, description, and responsibilities between the two jobs indicates that the first job was a crucial stepping stone in the person's career. Overall, the first job played a significant role in shaping the person's career trajectory, as it provided the necessary experience and skills to continue working in the field of dietetics.",
+        "key_transitions": [],
+        "conclusion": "yes, because the first job provided a solid foundation for the person's career growth and established their expertise in the field of dietetics, with no significant changes or pivots in the career trajectory"
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "dietetic technician",
+        "last_job": "dietetic technician",
+        "career_span": "Q4 2011 to Q3 2012"
+      }
+    },
+    {
+      "person_id": 86,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "presenter",
+        "first_job_period": "Q1 2010 to Q4 2015",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a presenter laid a foundation for subsequent roles that involved communication and public interaction. The career evolved from this role with transitions into sales account management, information management, and public relations, which all require strong communication and interpersonal skills. However, there was a notable pivot from a presenter role to a sales account manager, indicating a shift in career focus from media and entertainment to business and sales. The overall impact of the first job on the career path was moderate, as it provided a foundation in communication skills but did not directly lead to subsequent roles without significant career pivots.",
+        "key_transitions": [
+          "Presenter to Sales Account Manager (Q4 2015 to Q1 2016)",
+          "Sales Account Manager to Information Manager (Q4 2012 to Q1 2016)",
+          "Information Manager to Public Relations Officer (Q4 2017 to Q1 2018)"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it developed essential communication skills that were valuable across multiple roles, even if the career trajectory involved significant pivots and transitions."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "presenter",
+        "last_job": "public relations officer",
+        "career_span": "Q1 2010 to Q4 2019"
+      }
+    },
+    {
+      "person_id": 87,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "cashier",
+        "first_job_period": "Q1 2008 to Q4 2009",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a cashier does not appear to have set a direct foundation for the subsequent role as an administrative assistant. The skills and responsibilities of these two jobs are quite different, with the cashier role focusing on customer transactions and the administrative assistant role involving office support and management. The career evolved significantly from the first job, with a noticeable pivot from a customer-facing role to a behind-the-scenes administrative position. This pivot suggests that the individual may have been seeking a change in work environment or responsibilities, rather than building directly on the skills and experience gained in the first job. Overall, the first job does not seem to have had a lasting impact on the career path, as the individual transitioned into a distinct new field.",
+        "key_transitions": [
+          "Transition from customer-facing to administrative role",
+          "Shift from transactional tasks to office management responsibilities"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the career trajectory shows a distinct pivot away from the initial role and responsibilities."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "cashier",
+        "last_job": "administrative assistant",
+        "career_span": "Q1 2008 to Q4 2012"
+      }
+    },
+    {
+      "person_id": 90,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "primary school teacher",
+        "first_job_period": "Q1 1998 to Q4 2001",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a primary school teacher did not set a strong foundation for subsequent roles, as the career trajectory shows significant deviations from the initial profession. The transition from a teaching role to a secretary position and then to a supply chain assistant role indicates a career pivot, suggesting that the first job did not have a lasting impact on the career path. The career evolved with a shift from education to administrative and operational roles, with the individual acquiring new skills and adapting to different work environments. The overall impact of the first job on the career path appears to be minimal, with the individual exploring various fields and not building upon the teaching experience.",
+        "key_transitions": [
+          "From primary school teacher to history teacher secondary school (similar field, but different level)",
+          "From history teacher to secretary (career pivot to administrative role)",
+          "From secretary to supply chain assistant (another career pivot to operational role)"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the individual's career trajectory shows a lack of consistency and a series of career pivots, indicating that the initial profession did not have a lasting impact on the overall career path."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "primary school teacher",
+        "last_job": "supply chain assistant",
+        "career_span": "Q1 1998 to Q4 2014"
+      }
+    },
+    {
+      "person_id": 91,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "shop assistant",
+        "first_job_period": "Q1 2007 to Q4 2008",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as a shop assistant set a foundation for the subsequent role, as the person continued to work in the same position from Q1 2008 to Q4 2013. The career evolved with the person gaining more experience in the same field, with no significant career pivot or transition. The first job had a strong influence on the career path, as it established a pattern of working in retail and customer service. The fact that the person remained in the same job title and code (5223.6) for an extended period suggests a high level of consistency in their career path. The overall impact of the first job on the career path is significant, as it laid the groundwork for the person's continued work in retail. The person's university studies during both jobs may have also played a role in shaping their career trajectory, although the specific details of these studies are not provided. Overall, the career trajectory suggests a high degree of consistency and a strong influence of the first job on subsequent roles.",
+        "key_transitions": [],
+        "conclusion": "yes, the first job mattered significantly because it established a consistent career path in retail and customer service, with the person continuing to work in the same field for an extended period."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "shop assistant",
+        "last_job": "shop assistant",
+        "career_span": "Q1 2007 to Q4 2013"
+      }
+    },
+    {
+      "person_id": 100,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "university teaching assistant",
+        "first_job_period": "Q1 2008 to Q4 2012",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a university teaching assistant set a foundation for subsequent roles in education, particularly in teaching and instruction. The career evolved from this role into more specialized teaching positions, first as a history teacher at a secondary school and then as a religious education teacher. While the subject matter changed, the core skills and responsibilities remained consistent, indicating a moderate level of influence from the first job. However, the transition from a university setting to a secondary school setting and the shift in subject matter from general teaching assistance to specific subjects like history and religion suggest some level of career pivot. The overall impact of the first job on the career path is notable, as it established a pattern of employment in education and teaching, but the specific roles and subjects taught varied over time.",
+        "key_transitions": [
+          "Transition from university to secondary school setting",
+          "Shift from general teaching assistance to subject-specific teaching (history and religion)"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it established a foundation in education and teaching, influencing subsequent career choices and transitions, even if the specific roles and subjects taught varied over time."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "university teaching assistant",
+        "last_job": "religious education teacher at secondary school",
+        "career_span": "Q1 2008 to Q4 2012"
+      }
+    },
+    {
+      "person_id": 107,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "product development manager",
+        "first_job_period": "Q1 1996 to Q4 1999",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a product development manager laid a foundation in product development, technical, and cost criteria, which are essential skills in various industries. However, the subsequent roles show a shift towards more specialized and technical positions, such as leather goods industrial engineer and chemical manufacturing quality technician. This evolution indicates that while the first job provided a broad foundation, the career path took a more focused and specialized trajectory over time. The transition from product development to quality-focused roles, such as quality engineer, suggests a career pivot towards ensuring product quality and compliance with standards. The overall impact of the first job on the career path is moderate, as it provided a starting point, but the career evolved significantly over time.",
+        "key_transitions": [
+          "From product development manager to leather goods industrial engineer",
+          "From chemical manufacturing quality technician to quality engineer",
+          "From quality engineer to a more senior quality engineer role"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it provided a foundation in product development and technical skills, which, although not directly applicable to all subsequent roles, contributed to the overall career trajectory and specialization in quality engineering."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "product development manager",
+        "last_job": "quality engineer",
+        "career_span": "Q1 1996 to Q4 2012"
+      }
+    },
+    {
+      "person_id": 116,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "shop assistant",
+        "first_job_period": "Q1 2012 to Q4 2013",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a shop assistant set a foundation for subsequent roles in retail, with the person holding similar positions in the industry for several years. However, the career trajectory also shows a degree of inconsistency, with the person switching between different roles such as sales assistant, kitchen assistant, and cashier. The evolution of the career from the first job can be seen as a gradual exploration of different areas within the service industry, with the person likely gaining a range of skills and experiences that can be applied to various roles. Despite the inconsistencies, the first job likely played a role in shaping the person's career path, as it provided a starting point for their professional development and introduced them to the skills and demands of working in a retail environment.",
+        "key_transitions": [
+          "Transition from shop assistant to sales assistant (Job 3)",
+          "Transition from sales assistant to kitchen assistant (Job 5)",
+          "Transition from kitchen assistant to cashier (Job 6)"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it introduced the person to the retail industry and provided a foundation for their subsequent career development, even if the trajectory was not entirely consistent."
+      },
+      "career_summary": {
+        "total_jobs": 6,
+        "first_job": "shop assistant",
+        "last_job": "cashier",
+        "career_span": "Q1 2012 to Q2 2018"
+      }
+    },
+    {
+      "person_id": 120,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "midwife",
+        "first_job_period": "Q4 2007 to Q4 2012",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a midwife provided a foundation in healthcare, but subsequent roles did not build directly upon this experience. The career evolved with a shift towards general nursing care, followed by a significant pivot into non-medical fields such as post office counter clerk, administrative assistant, and sales assistant. This trajectory indicates that while the first job may have provided some transferable skills, it did not set a consistent career path. The career path shows inconsistency, with the individual transitioning between vastly different roles, suggesting that the first job's influence was limited in determining the long-term career direction.",
+        "key_transitions": [
+          "From midwife to nurse responsible for general care (a related field)",
+          "From nursing to post office counter clerk (a significant career pivot)",
+          "From post office counter clerk to administrative assistant and sales assistant (further diversification)"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as evidenced by the lack of consistency in job roles and the significant career pivots that occurred later in their career."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "midwife",
+        "last_job": "sales assistant",
+        "career_span": "Q4 2007 to Q3 2017"
+      }
+    },
+    {
+      "person_id": 125,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 130,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "call centre agent",
+        "first_job_period": "Q1 2024 to Q2 2024",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a call centre agent laid a foundation for subsequent roles by developing essential communication skills, which are crucial for a career in communication management. The career evolved from handling customer calls to managing communication strategies, indicating a natural progression of skills. However, there was a career pivot from a customer-facing role to a more strategic and managerial position, which suggests that the individual leveraged their initial experience to transition into a more senior role. The overall impact of the first job on the career path is moderate, as it provided a starting point for building relevant skills, but the individual's career trajectory was not entirely defined by this initial role.",
+        "key_transitions": [
+          "Transition from customer-facing to strategic role",
+          "Shift from sales-focused to communication management"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it provided a foundation for developing communication skills, which were later leveraged to secure a more senior role in communication management."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "call centre agent",
+        "last_job": "communication manager",
+        "career_span": "Q1 2024 to Q4 2024"
+      }
+    },
+    {
+      "person_id": 131,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 140,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "warehouse worker",
+        "first_job_period": "Q1 2006 to Q4 2007",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a warehouse worker laid a foundation for understanding the importance of inventory management, quality control, and logistical operations. This role could have potentially set the stage for subsequent roles in manufacturing or supply chain management. However, the transition to a factory hand, although related in the broader context of manual labor and manufacturing, indicates a shift in focus from warehouse operations to factory floor activities. The career trajectory shows a moderate level of consistency, with both roles involving manual labor and support functions within a production environment. The first job's influence is moderate because it introduced the individual to the manufacturing sector, but the specific skills and responsibilities did not directly translate to the factory hand role. The university studies undertaken during both periods suggest an ongoing effort to enhance skills and knowledge, possibly aiming for more senior roles or different career paths in the future.",
+        "key_transitions": [
+          "Transition from warehouse operations to factory floor activities",
+          "Continuation of university studies during both job periods"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it introduced the individual to the manufacturing sector and laid foundational knowledge in inventory management and quality control, even though the career path shows a moderate level of consistency and the first job's influence is moderate."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "warehouse worker",
+        "last_job": "factory hand",
+        "career_span": "Q1 2006 to Q4 2014"
+      }
+    },
+    {
+      "person_id": 143,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "primary school teacher",
+        "first_job_period": "Q2 2013 to Q3 2018",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a primary school teacher laid a foundation in education, which is evident in the subsequent role as a secondary school teaching assistant. However, the career evolution from the first job to the second job shows a shift from a teaching role to a support role, indicating a slight pivot in the career trajectory. The first job provided a strong educational background and teaching experience, which could have been leveraged to secure the second role. The career trajectory remained somewhat consistent in the education sector, but the transition from a teaching role to a support role suggests that the individual may have been exploring different aspects of education or seeking a change in job responsibilities. The overall impact of the first job on the career path is moderate, as it provided a foundation in education but did not directly lead to a linear progression of roles.",
+        "key_transitions": [
+          "Transition from teaching to teaching assistance",
+          "Shift from primary to secondary school level"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it provided a foundation in education and teaching experience, which likely influenced the individual's decision to pursue a related role in the education sector."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "primary school teacher",
+        "last_job": "secondary school teaching assistant",
+        "career_span": "Q2 2013 to Q1 2015"
+      }
+    },
+    {
+      "person_id": 153,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "economic adviser",
+        "first_job_period": "Q1 1981 to Q4 1982",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as an economic adviser laid a foundation in economic research and analysis, which is evident in the subsequent roles as a securities analyst and business analyst. The career evolved with a gradual shift from economic research to financial analysis and then to business strategy. However, there was a notable pivot when the person transitioned from a business analyst to an asset manager, which marked a significant change in the career trajectory. The first job's influence can be seen in the development of analytical and research skills, which were essential for the subsequent roles. The career path remained relatively consistent in terms of the industry, with a focus on finance and economics, but there were changes in the specific job functions and responsibilities. Overall, the first job had a moderate influence on the career path, as it provided a foundation in research and analysis, but the career trajectory was not entirely linear, with some notable transitions and pivots.",
+        "key_transitions": [
+          "From economic adviser to securities analyst, marking a shift from economic research to financial analysis",
+          "From business analyst to asset manager, representing a significant change in job function and responsibility",
+          "From asset manager to bookkeeper, which appears to be a career pivot with a change in job function and industry focus"
+        ],
+        "conclusion": "yes, with the reasoning that the first job provided a foundation in research and analysis, which was essential for the subsequent roles, and although the career trajectory was not entirely linear, the skills developed in the first job had a lasting impact on the career path."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "economic adviser",
+        "last_job": "bookkeeper",
+        "career_span": "Q1 1981 to Q4 2004"
+      }
+    },
+    {
+      "person_id": 156,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "restaurant host/restaurant hostess",
+        "first_job_period": "Q1 2010 to Q4 2016",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a restaurant host/hostess does not appear to have set a direct foundation for the subsequent roles in teaching. The career evolved significantly from the first job, with a transition into education, specifically teaching business studies and economics, and later mathematics. This suggests a career pivot, as the individual moved from a service-oriented role to an education-focused career. The first job may have provided general skills such as communication and customer service, but it does not seem to have directly influenced the choice of subsequent careers in teaching. The overall impact of the first job on the career path appears to be minimal, with the individual's university studies and potentially other factors playing a more significant role in shaping their career trajectory. The transitions in the career path indicate a desire to move into roles that are more specialized and focused on education, which may have been driven by personal interests, skills acquired through university studies, or a combination of these factors. The lack of direct connection between the first job and the subsequent roles suggests that the first job was not a critical factor in determining the long-term career path.",
+        "key_transitions": [
+          "Transition from restaurant host/hostess to business studies and economics teacher",
+          "Transition from business studies and economics teacher to mathematics teacher"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as the individual underwent a significant career pivot into education, and the skills and experiences gained in the first job do not appear to have directly contributed to the choice of subsequent careers."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "restaurant host/restaurant hostess",
+        "last_job": "mathematics teacher at secondary school",
+        "career_span": "Q1 2010 to Q4 2018"
+      }
+    },
+    {
+      "person_id": 160,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "vessel operations coordinator",
+        "first_job_period": "Q1 1985 to Q4 1986",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a vessel operations coordinator laid a foundation for subsequent roles in logistics and transportation. The career evolved from this first job with a brief stint as a car and van delivery driver, which may seem unrelated but still involves transportation. However, the individual returned to a vessel operations coordinator role, indicating a strong interest in this area. The career trajectory remained somewhat consistent, with a focus on transportation and logistics, but with a significant pivot to a freight inspector role, which lasted for 17 years. The first job's influence can be seen in the individual's return to a similar role and the eventual transition to a freight inspector, which involves managing and documenting shipments, a skillset that may have been developed in the first job.",
+        "key_transitions": [
+          "Transition from vessel operations coordinator to car and van delivery driver",
+          "Return to vessel operations coordinator",
+          "Transition to freight inspector"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it introduced the individual to the logistics and transportation industry, and its influence can be seen in subsequent career choices, including the return to a similar role and the development of relevant skillsets that were applied in later roles."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "vessel operations coordinator",
+        "last_job": "freight inspector",
+        "career_span": "Q1 1985 to Q4 2014"
+      }
+    },
+    {
+      "person_id": 161,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "materials handler",
+        "first_job_period": "Q1 1996 to Q4 1997",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a materials handler does not appear to have set a direct foundation for subsequent roles, as the career trajectory takes a significant turn with each new job. The career evolved with a mix of jobs in different fields such as gardening, social work, landscape gardening, transport planning, and ICT network architecture. This inconsistency suggests that the first job did not have a lasting impact on the career path, and instead, the individual explored various fields before settling on a few areas of interest. The career trajectory remained inconsistent, with the individual making significant pivots, including a return to landscape gardening after exploring other fields. The overall impact of the first job on the career path seems minimal, as the individual's career evolved more based on their university studies and personal interests rather than the skills or experience gained in the first job.",
+        "key_transitions": [
+          "From materials handler to garden labourer",
+          "From garden labourer to social work supervisor",
+          "From social work supervisor to landscape gardener",
+          "From landscape gardener to transport planner",
+          "From transport planner to ICT network architect",
+          "From ICT network architect back to landscape gardener"
+        ],
+        "conclusion": "No, the first job did not matter significantly in shaping the person's career path, as evidenced by the numerous career pivots and the lack of a direct connection between the first job and subsequent roles."
+      },
+      "career_summary": {
+        "total_jobs": 7,
+        "first_job": "materials handler",
+        "last_job": "landscape gardener",
+        "career_span": "Q1 1996 to Q4 2017"
+      }
+    },
+    {
+      "person_id": 169,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "financial trader",
+        "first_job_period": "Q1 2007 to Q4 2008",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a financial trader did not appear to set a direct foundation for the subsequent roles. The career evolved significantly from the first job, with a notable pivot to a bartender position, which seems unrelated to the skills and knowledge gained in the first job. This drastic change suggests that the individual may have been exploring different career paths or industries. The transition from a financial trader to a bartender and then to a marketing assistant indicates a lack of consistency in the career trajectory, with each role requiring distinct skill sets and expertise. The overall impact of the first job on the career path seems minimal, as the individual did not build upon the skills and experience gained in the first role. Instead, the career trajectory suggests a series of exploratory phases, with the individual trying out different professions and industries. The fact that the individual remained in each role for a relatively short period also supports this notion. Furthermore, the transition to a marketing assistant role, which involves supporting marketing managers and preparing reports, may indicate that the individual eventually found a role that leverages their skills and interests, but this role is not directly related to the first job as a financial trader.",
+        "key_transitions": [
+          "financial trader to bartender",
+          "bartender to marketing assistant"
+        ],
+        "conclusion": "no, the first job did not significantly influence the person's career path, as the individual's career trajectory lacks consistency and shows a series of unrelated roles"
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "financial trader",
+        "last_job": "marketing assistant",
+        "career_span": "Q1 2007 to Q4 2013"
+      }
+    },
+    {
+      "person_id": 174,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "laser beam welder",
+        "first_job_period": "Q1 1996 to Q4 1999",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a laser beam welder does not appear to have set a strong foundation for subsequent roles, as the individual transitioned into various unrelated positions such as shop assistant, welder, shop manager, forklift operator, and civil engineering worker. The career evolved with a mix of jobs in retail, manufacturing, and construction, indicating a lack of consistency in the career path. There were several career pivots, including the shift from welding to retail and later to construction, suggesting that the individual explored different fields before settling into management roles in retail. The overall impact of the first job on the career path seems minimal, as the individual's career trajectory was marked by frequent changes in job titles and industries.",
+        "key_transitions": [
+          "Transition from laser beam welder to shop assistant (Q1 2000)",
+          "Transition from shop assistant to welder (Q1 2004)",
+          "Transition from welder to shop manager (Q1 2007)",
+          "Transition from shop manager to forklift operator (Q1 2011)",
+          "Transition from forklift operator to civil engineering worker (Q3 2012)",
+          "Transition from civil engineering worker to supermarket manager (Q1 2014)"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the individual's career path was characterized by frequent changes and pivots, indicating that the first job did not have a lasting impact on their career trajectory."
+      },
+      "career_summary": {
+        "total_jobs": 11,
+        "first_job": "laser beam welder",
+        "last_job": "department store manager",
+        "career_span": "Q1 1996 to Q4 2017"
+      }
+    },
+    {
+      "person_id": 176,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "warehouse worker",
+        "first_job_period": "Q3 2014 to Q3 2015",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a warehouse worker does not appear to have set a direct foundation for the subsequent roles. The career evolved significantly from the first job, with the person transitioning to a sales support assistant role and then to a bartender role. This suggests a career pivot, as the skills and responsibilities of the first job are not directly related to the later roles. The overall impact of the first job on the career path is limited, as the person's career trajectory does not demonstrate a clear progression or building upon the skills and experience gained in the first job. The fact that the person was pursuing university studies during all three jobs suggests that they may have been exploring different career options or gaining diverse experiences before settling on a specific career path. The lack of consistency in the career path and the significant changes in job roles and industries suggest that the first job did not have a lasting impact on the person's career trajectory.",
+        "key_transitions": [
+          "warehouse worker to sales support assistant",
+          "sales support assistant to bartender"
+        ],
+        "conclusion": "no, the first job did not significantly influence the person's career path due to the lack of consistency and the significant career pivots that occurred afterwards"
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "warehouse worker",
+        "last_job": "bartender",
+        "career_span": "Q3 2014 to Q1 2018"
+      }
+    },
+    {
+      "person_id": 178,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "sales assistant",
+        "first_job_period": "Q1 2011 to Q4 2015",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a sales assistant did not appear to set a direct foundation for the subsequent role as a co-pilot, given the vastly different job descriptions and codes. The career evolved significantly from the first job, with a notable pivot from sales to aviation. This pivot suggests that the individual's career trajectory was not consistent, and the first job may not have played a significant role in shaping their long-term career path. The overall impact of the first job on the career path seems minimal, as the skills and knowledge required for sales assistance are quite different from those needed for a co-pilot role.",
+        "key_transitions": [
+          "Pivot from sales to aviation",
+          "Transition from sales assistant to co-pilot"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the career path took a drastic turn with the transition to a co-pilot role, indicating that the skills and experience gained in the first job were not directly applicable or influential in the subsequent career choice."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "sales assistant",
+        "last_job": "co-pilot",
+        "career_span": "Q1 2011 to Q4 2015"
+      }
+    },
+    {
+      "person_id": 180,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 191,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "flight attendant",
+        "first_job_period": "Q2 2014 to Q1 2016",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a flight attendant did not seem to set a direct foundation for the subsequent roles. The career evolved significantly from the first job, with transitions from a service-oriented role in the aviation industry to a leisure attendant role, and finally to an office management position. This indicates a career pivot, as the individual moved from roles focused on direct customer service and operational tasks to a more administrative and managerial role. The overall impact of the first job on the career path appears to be minimal, as the skills and experiences gained as a flight attendant may not be directly applicable to the later roles.",
+        "key_transitions": [
+          "From flight attendant to leisure attendant",
+          "From leisure attendant to office manager"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the career trajectory shows a pivot away from the initial role with minimal direct influence on the subsequent positions."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "flight attendant",
+        "last_job": "office manager",
+        "career_span": "Q2 2014 to Q1 2018"
+      }
+    },
+    {
+      "person_id": 196,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "massage therapist",
+        "first_job_period": "Q1 2011 to Q4 2014",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as a massage therapist set a clear foundation for the subsequent role, as the person remained in the same profession. The career evolved seamlessly from the first job, with no significant changes in job title or responsibilities. The trajectory remained consistent, with the individual continuing to work as a massage therapist, indicating a lack of career pivot. The first job had a profound impact on the career path, as it established the person's professional identity and expertise in the field. The fact that the job code and description remained the same for both roles further emphasizes the consistency of the career path. Overall, the first job played a crucial role in shaping the person's career, as it provided a solid foundation for future growth and development. The absence of significant changes or pivots in the career trajectory suggests that the first job was a defining factor in the person's professional life. The consistent application of skills and knowledge gained in the first job is a testament to the enduring influence of the initial role.",
+        "key_transitions": [],
+        "conclusion": "yes, because the first job established the person's professional identity and expertise, and the career trajectory remained consistent with no significant changes or pivots"
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "massage therapist",
+        "last_job": "massage therapist",
+        "career_span": "Q1 2011 to Q2 2016"
+      }
+    },
+    {
+      "person_id": 199,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 201,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "insurance broker",
+        "first_job_period": "Q1 2003 to Q4 2003",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as an insurance broker did not set a clear foundation for subsequent roles, as the career trajectory shows a series of unrelated positions. The career evolved with a mix of sales, administrative, and customer service roles, indicating a lack of consistency. There was no clear career pivot, but rather a meandering path with multiple short-term positions. The overall impact of the first job on the career path appears to be minimal, as the individual did not build upon the skills and experience gained as an insurance broker. The subsequent roles, such as sales assistant, post office counter clerk, and administrative assistant, do not demonstrate a clear connection to the first job. Furthermore, the frequent job changes and lack of progression in a specific field suggest that the first job did not have a lasting impact on the individual's career trajectory. The individual's career path is characterized by a series of short-term positions, which may indicate a lack of direction or stability.",
+        "key_transitions": [
+          "insurance broker to sales assistant",
+          "sales assistant to post office counter clerk",
+          "post office counter clerk to administrative assistant"
+        ],
+        "conclusion": "no, the first job did not significantly influence the person's career path, as the subsequent roles do not demonstrate a clear connection to the skills and experience gained as an insurance broker"
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "insurance broker",
+        "last_job": "administrative assistant",
+        "career_span": "Q1 2003 to Q1 2007"
+      }
+    },
+    {
+      "person_id": 204,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 205,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "secondary school head teacher",
+        "first_job_period": "Q1 2013 to Q4 2014",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a secondary school head teacher does not appear to have set a direct foundation for the subsequent roles. The career evolved significantly from the first job, with transitions into food regulatory advisory, administrative assistance, and client relations management. This indicates a career pivot, as the individual moved from an educational leadership role to roles in regulatory compliance, administration, and customer relations. The overall impact of the first job on the career path seems limited, as the individual's career trajectory did not remain consistent with the initial role. The skills and experience gained in the first job may have been transferable to some extent, such as management and leadership skills, but the career path suggests a shift in industry and job function. The transitions between jobs, particularly from education to food regulation and then to client relations, suggest that the individual was exploring different fields and roles, rather than building on a specific foundation established by the first job.",
+        "key_transitions": [
+          "From education to food regulation (Job 1 to Job 2)",
+          "From food regulation to administrative assistance (Job 2 to Job 3)",
+          "From administrative assistance to client relations management (Job 3 to Job 4)"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as the individual's career trajectory was marked by significant pivots and transitions into different fields and roles, rather than building on a foundation established by the first job."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "secondary school head teacher",
+        "last_job": "client relations manager",
+        "career_span": "Q1 2013 to Q3 2018"
+      }
+    },
+    {
+      "person_id": 207,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "secondary school teacher",
+        "first_job_period": "Q1 2003 to Q4 2004",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a secondary school teacher laid a foundation in education, which is evident in the subsequent roles. The career evolved with a return to a similar role as a secondary school teacher after a gap, indicating a consistent interest in teaching. However, the transition to an early years teacher role suggests a pivot towards teaching younger students, which may have been influenced by the foundational experience in secondary school teaching. The first job's impact on the career path is moderate, as it provided a basis for future teaching roles but did not dictate a linear progression. The career trajectory remained largely within the education sector, with variations in the age group of students taught. Overall, the first job contributed to the development of teaching skills and an understanding of educational settings, which were later applied in different contexts.",
+        "key_transitions": [
+          "Return to secondary school teaching after a gap",
+          "Transition from secondary school teaching to early years teaching"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it established a foundation in teaching and education, which was built upon in subsequent roles, even if the specific age group of students changed."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "secondary school teacher",
+        "last_job": "early years teacher",
+        "career_span": "Q1 2003 to Q2 2012"
+      }
+    },
+    {
+      "person_id": 208,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "product quality controller",
+        "first_job_period": "Q1 2014 to Q4 2015",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a product quality controller did not set a direct foundation for the subsequent role as a sales account manager. The career evolved significantly from the first job, with a transition from a manufacturing-focused role to a client-facing sales position. This indicates a career pivot, as the skills and responsibilities of the two roles are quite different. The first job may have provided some general skills, such as attention to detail and analytical abilities, but it does not appear to have had a significant impact on the career path. The person's career trajectory remained in a field that involves working with products, but the specific role and responsibilities changed substantially. Overall, the first job seems to have been a stepping stone, but not a defining factor in the person's career path.",
+        "key_transitions": [
+          "Transition from product quality controller to sales account manager",
+          "Shift from manufacturing to sales and client relations"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the career path took a substantial pivot after the initial role, indicating that the first job was not a determining factor in the person's long-term career trajectory."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "product quality controller",
+        "last_job": "sales account manager",
+        "career_span": "Q1 2014 to Q1 2016"
+      }
+    },
+    {
+      "person_id": 209,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 213,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "venue director",
+        "first_job_period": "Q1 2011 to Q4 2014",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a venue director did not set a direct foundation for the subsequent role as an academic advisor. The career evolved significantly from managing hospitality events to advising students on their academic goals. This transition indicates a career pivot, as the skills and expertise required for these roles are distinct. The first job may have developed general management and communication skills, but it does not appear to have a strong connection to the second role. The overall impact of the first job on the career path seems minimal, with the individual transitioning into a completely different field. The gap between the two jobs also suggests that the individual may have pursued further education or training to transition into the new role. The difference in job codes (3332.2.1 to 2359.1) further emphasizes the distinct nature of these roles.",
+        "key_transitions": [
+          "Transition from hospitality to education",
+          "Shift from event management to academic advising"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as it does not appear to have directly led to the development of skills or expertise that are directly applicable to the second role."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "venue director",
+        "last_job": "academic advisor",
+        "career_span": "Q1 2011 to Q2 2018"
+      }
+    },
+    {
+      "person_id": 215,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "child day care worker",
+        "first_job_period": "Q3 1995 to Q4 1995",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as a child day care worker set a foundation for subsequent roles, particularly in the field of child care and social services. The career evolved from this initial role, with the individual transitioning into a child care social worker position, which is closely related to their first job. This transition suggests a consistent career trajectory, with the first job providing a starting point for future roles. The fact that the individual spent 17 years in the child care social worker position indicates a high level of career path consistency. The first job likely influenced the individual's career path, as it introduced them to the field of child care and social services, and provided them with the experience and skills necessary to pursue more advanced roles. The brief stint as a bus driver appears to be an anomaly, but it did not seem to derail the individual's long-term career goals. Overall, the first job had a significant impact on the career path, as it provided a foundation for future roles and introduced the individual to a field in which they would spend the majority of their career.",
+        "key_transitions": [
+          "Transition from child day care worker to bus driver",
+          "Transition from bus driver to child care social worker"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it introduced the individual to the field of child care and social services, and provided them with the experience and skills necessary to pursue more advanced roles."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "child day care worker",
+        "last_job": "child care social worker",
+        "career_span": "Q3 1995 to Q3 2013"
+      }
+    },
+    {
+      "person_id": 222,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "insurance clerk",
+        "first_job_period": "Q3 2009 to Q4 2010",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as an insurance clerk laid a foundation for subsequent administrative roles, as it involved general clerical and administrative duties. The career evolved from this role with the person taking on more administrative responsibilities, such as a secretary and project support officer. Although there was a brief stint as a project support officer, which introduced some project management elements, the overall trajectory remained relatively consistent in the administrative support domain. The first job's influence can be seen in the development of administrative skills, which were built upon in subsequent roles. However, the career path did not strictly follow a linear progression, with some variation in job titles and responsibilities. The person's career evolved to incorporate more specialized administrative roles, with the first job serving as a stepping stone for future opportunities. The administrative skills and knowledge gained in the first job were likely beneficial in securing subsequent roles, demonstrating a moderate level of influence. Overall, the first job played a role in shaping the person's career path, but its impact was not overwhelmingly strong, as the person's career trajectory was also influenced by other factors, such as university studies and personal interests.",
+        "key_transitions": [
+          "insurance clerk to secretary",
+          "secretary to project support officer",
+          "project support officer to administrative assistant"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it provided a foundation in administrative skills and knowledge that were built upon in subsequent roles, ultimately contributing to the person's career trajectory in administrative support."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "insurance clerk",
+        "last_job": "administrative assistant",
+        "career_span": "Q3 2009 to Q1 2019"
+      }
+    },
+    {
+      "person_id": 225,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "wood pallet maker",
+        "first_job_period": "Q1 1999 to Q4 2000",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a wood pallet maker does not appear to have set a strong foundation for subsequent roles, as the career trajectory is marked by frequent changes in job titles and industries. The career evolved from the first job with a series of unrelated roles, including surface-mount technology machine operator, warehouse order picker, baker, and factory hand, among others. This suggests a lack of consistency in the career path, with no clear progression or specialization. While the first job may have provided some basic skills, such as operating machinery or working in a production environment, it does not seem to have had a lasting impact on the overall career trajectory. The career path is characterized by a series of short-term roles, with no clear career pivot or progression towards a specific goal. The individual's university studies may have played a more significant role in shaping their career path than the first job.",
+        "key_transitions": [
+          "From wood pallet maker to surface-mount technology machine operator (Q1 2001)",
+          "From baker to factory hand (Q1 2006)",
+          "From factory hand to lift technician (Q1 2009)",
+          "From lift technician to warehouse order picker (Q1 2012)"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the career trajectory is marked by frequent changes and a lack of consistency, suggesting that the individual's career path was not heavily influenced by their initial role as a wood pallet maker."
+      },
+      "career_summary": {
+        "total_jobs": 11,
+        "first_job": "wood pallet maker",
+        "last_job": "hand packer",
+        "career_span": "Q1 1999 to Q4 2017"
+      }
+    },
+    {
+      "person_id": 234,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "lathe and turning machine operator",
+        "first_job_period": "Q1 2005 to Q4 2006",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a lathe and turning machine operator does not appear to have set a direct foundation for the subsequent role as a road maintenance worker. The career evolved significantly from the first job, with a noticeable shift from a manufacturing setting to a role focused on infrastructure maintenance. There was a clear career pivot, as the skills and expertise gained in the first job do not seem to be directly applicable to the second job. The overall impact of the first job on the career path is not immediately apparent, and it seems that the individual may have pursued further education or training to facilitate the transition to the second role.",
+        "key_transitions": [
+          "Shift from manufacturing to infrastructure maintenance",
+          "Change in job code from 7223.4.4 to 9312.1.3",
+          "Gap in employment from Q4 2006 to Q1 2013"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as the skills and expertise gained in the first role do not seem to be directly applicable to the second job, and there was a noticeable career pivot."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "lathe and turning machine operator",
+        "last_job": "road maintenance worker",
+        "career_span": "Q1 2005 to Q4 2013"
+      }
+    },
+    {
+      "person_id": 235,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 238,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "health and safety officer",
+        "first_job_period": "Q4 2012 to Q1 2013",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a health and safety officer laid a foundation for subsequent roles in terms of ensuring compliance with regulations and standards. However, the career evolved significantly from the first job, with a transition into pharmaceutical quality specialist roles, which involved more specialized work in the development phase of pharmaceutical products. The career trajectory remained relatively consistent for a period, with two consecutive roles as a pharmaceutical quality specialist, but then took a pivot with the transition to an administrative assistant role, indicating a potential shift in career goals or interests. The first job's influence can be seen in the initial transition to pharmaceutical quality specialist roles, where the skills and knowledge gained in health and safety could be applied to ensuring the quality of pharmaceutical products.",
+        "key_transitions": [
+          "health and safety officer to pharmaceutical quality specialist",
+          "pharmaceutical quality specialist to administrative assistant"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it provided a foundation for subsequent roles in terms of regulatory compliance and standards, and its influence can be seen in the initial career transitions, even if the trajectory eventually took a different turn."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "health and safety officer",
+        "last_job": "administrative assistant",
+        "career_span": "Q4 2012 to Q4 2015"
+      }
+    },
+    {
+      "person_id": 240,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "administrative assistant",
+        "first_job_period": "Q1 2010 to Q4 2012",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as an administrative assistant set a foundation for the subsequent role, as the job title and description remained the same. This suggests that the individual found a career path that they were comfortable with and chose to continue in the same field. The career evolved from the first job in a consistent manner, with no significant pivots or changes in job title or description. The overall impact of the first job on the career path was significant, as it established a pattern of administrative work that continued in the second job. The fact that the individual was pursuing university studies during both jobs suggests that they were seeking to enhance their skills and knowledge in their chosen field. The consistency in job title and description between the two jobs indicates that the first job had a lasting impact on the individual's career trajectory. The individual's decision to continue in the same role suggests that they were satisfied with their career path and saw opportunities for growth and development within the field. The lack of significant transitions or pivots in the career path suggests that the first job played a crucial role in shaping the individual's career trajectory.",
+        "key_transitions": [],
+        "conclusion": "yes, the first job mattered significantly because it established a pattern of administrative work that continued in the subsequent job, and the individual chose to continue in the same field, suggesting a high level of career path consistency and a strong influence of the first job on the overall career trajectory."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "administrative assistant",
+        "last_job": "administrative assistant",
+        "career_span": "Q1 2010 to Q4 2013"
+      }
+    },
+    {
+      "person_id": 248,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "waiter/waitress",
+        "first_job_period": "Q1 2008 to Q4 2011",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a waiter/waitress does not appear to have set a direct foundation for the subsequent roles. The career evolved significantly from the first job, with the individual transitioning into employment agent, corporate trainer, and project manager roles. This suggests a career pivot, as the skills and responsibilities of these roles are quite different from those of a waiter/waitress. The overall impact of the first job on the career path seems minimal, as the individual's career trajectory remained inconsistent, with no clear connection between the first job and the subsequent roles. The fact that the individual was pursuing university studies during the first job may indicate that the first job was not a long-term career goal, but rather a means to support education. The career trajectory suggests that the individual was exploring different fields and roles, eventually transitioning into a project management role, which may have been influenced by the skills and knowledge gained through university studies rather than the first job.",
+        "key_transitions": [
+          "waiter/waitress to employment agent",
+          "employment agent to corporate trainer",
+          "corporate trainer to project manager"
+        ],
+        "conclusion": "no, the first job did not significantly influence the person's career path, as the skills and responsibilities of the subsequent roles are quite different and the career trajectory remained inconsistent"
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "waiter/waitress",
+        "last_job": "project manager",
+        "career_span": "Q1 2008 to Q2 2016"
+      }
+    },
+    {
+      "person_id": 250,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "refrigeration air condition and heat pump technician",
+        "first_job_period": "Q1 2004 to Q4 2006",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a refrigeration air condition and heat pump technician did not set a clear foundation for subsequent roles. The career evolved significantly from the first job, with transitions into unrelated fields such as retail and food service. The trajectory remained inconsistent, with no clear pattern or connection between the first job and later roles. The overall impact of the first job on the career path appears to be minimal, as the individual transitioned into vastly different fields without apparent connection to their initial occupation.",
+        "key_transitions": [
+          "From refrigeration technician to shop assistant (Q1 2008 to Q4 2009)",
+          "From shop assistant to kitchen assistant (Q1 2011 to Q4 2014)",
+          "From kitchen assistant to plumber (Q1 2014 to Q4 2015)"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the individual's career path was marked by significant transitions into unrelated fields, indicating a lack of lasting influence from their initial occupation."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "refrigeration air condition and heat pump technician",
+        "last_job": "plumber",
+        "career_span": "Q1 2004 to Q4 2015"
+      }
+    },
+    {
+      "person_id": 261,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "special forces officer",
+        "first_job_period": "Q1 1980 to Q4 1981",
+        "career_path_consistency": "low",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a special forces officer laid a foundation in terms of discipline, strategic thinking, and adaptability, which are valuable skills in many careers. However, the career evolved significantly from this first role, with a transition into case administration, which seems unrelated to special forces work at first glance. Upon closer inspection, skills such as attention to detail, understanding of protocol, and the ability to work under pressure could have been transferable. The career trajectory shows a pivot from a role that involves direct action and combat to roles that are more administrative and specialized, indicating that while the first job may have provided some foundational skills, it did not directly dictate the subsequent career path. The overall impact of the first job on the career path seems to be more about developing personal and professional attributes rather than setting a direct career trajectory.",
+        "key_transitions": [
+          "From special forces officer to case administrator, indicating a shift from a combat and intelligence role to an administrative one.",
+          "From case administrator to import export specialist, showing a move from legal case management to international trade and customs expertise."
+        ],
+        "conclusion": "yes, the first job mattered significantly because it likely developed key skills and personal attributes that are valuable across different careers, even if the specific roles that followed did not directly build upon the first job's responsibilities."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "special forces officer",
+        "last_job": "import export specialist",
+        "career_span": "Q1 1980 to Q3 2014"
+      }
+    },
+    {
+      "person_id": 270,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "after-sales service technician",
+        "first_job_period": "Q1 2012 to Q4 2013",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as an after-sales service technician does not appear to have set a direct foundation for the subsequent role as a kitchen assistant. The career evolved significantly from a technical, customer-facing role to a position in food preparation and kitchen maintenance, indicating a career pivot. The transition from a role requiring technical skills and customer interaction to one focused on food preparation suggests a substantial shift in career trajectory. The overall impact of the first job on the career path seems minimal, as the skills and expertise gained in the first role do not directly translate to the second job. Furthermore, the gap in employment between the two roles, coupled with the continuation of university studies during both periods, may indicate a period of exploration or a deliberate choice to change career paths. The difference in job codes (2433.1 to 9412.1) also highlights the distinct nature of these roles, further supporting the notion of a career pivot rather than a linear progression.",
+        "key_transitions": [
+          "Career pivot from technical service to food preparation",
+          "Shift from customer-facing to behind-the-scenes role"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as evidenced by the substantial career pivot and lack of direct skill translation between the two roles."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "after-sales service technician",
+        "last_job": "kitchen assistant",
+        "career_span": "Q1 2012 to Q4 2016"
+      }
+    },
+    {
+      "person_id": 277,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "clothing specialised seller",
+        "first_job_period": "Q1 2012 to Q4 2013",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a clothing specialised seller does not appear to have set a direct foundation for the subsequent roles, which were primarily in the education sector. The career evolved significantly from the first job, with a transition into teaching and education administration. This suggests a career pivot, as the individual moved from a role in sales to one in education. The first job's impact on the career path seems minimal, as the individual's university studies and subsequent job roles were more influential in shaping their career trajectory. The career trajectory remained inconsistent, with the individual holding multiple roles in different fields, including teaching and education administration. Overall, the first job does not seem to have had a lasting impact on the individual's career path, which was more heavily influenced by their university studies and subsequent job experiences.",
+        "key_transitions": [
+          "Transition from sales to education (Job 1 to Job 2)",
+          "Transition from secondary school teaching to visual arts teaching (Job 2 to Job 3)",
+          "Transition from teaching to education administration (Job 4 to Job 6)"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the individual's career path was more heavily influenced by their university studies and subsequent job experiences, resulting in a career trajectory with low consistency and a weak influence from the first job."
+      },
+      "career_summary": {
+        "total_jobs": 6,
+        "first_job": "clothing specialised seller",
+        "last_job": "education administrator",
+        "career_span": "Q1 2012 to Q4 2017"
+      }
+    },
+    {
+      "person_id": 278,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "sales account manager",
+        "first_job_period": "Q1 2005 to Q2 2006",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a sales account manager laid a foundation in managing client relationships and sales, skills that are transferable across various roles. The career evolved with a transition to product management, which still utilized sales and marketing skills, indicating a level of consistency. However, the pivot to ICT network engineer marked a significant shift towards a more technical role, suggesting that while the first job provided a foundation in sales and account management, it did not directly influence the technical aspects of later roles. The career trajectory shows a mix of sales, product management, and technical roles, with the first job influencing the earlier part of the career path, particularly in sales and account management aspects.",
+        "key_transitions": [
+          "From sales account manager to product manager",
+          "From product manager to ICT network engineer",
+          "From ICT network engineer to ICT account manager"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it provided foundational skills in sales and account management that were utilized in subsequent roles, even if the career path included pivots into more technical areas."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "sales account manager",
+        "last_job": "ICT account manager",
+        "career_span": "Q1 2005 to Q4 2011"
+      }
+    },
+    {
+      "person_id": 280,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "stock broker",
+        "first_job_period": "Q1 1984 to Q4 1986",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a stock broker may have laid the groundwork for subsequent roles in sales and business development, as it likely honed skills in client relations, market analysis, and strategic decision-making. However, the career trajectory shows a significant shift away from finance and towards technical sales and business development. The individual's career evolved through various roles, with a mix of sales, technical sales, and business development positions, indicating a gradual transition towards more strategic and advisory roles. While the first job may have provided a foundation in client-facing skills and market analysis, the career path is marked by several transitions and pivots, suggesting that the individual's career was not solely defined by their initial role.",
+        "key_transitions": [
+          "Shift from stock broker to technical sales representative",
+          "Transition from technical sales to sales account management",
+          "Pivot from sales to business development"
+        ],
+        "conclusion": "yes, with the reasoning that the first job likely provided foundational skills in client relations and market analysis, which were leveraged in subsequent roles, even if the career path was not entirely linear or consistent."
+      },
+      "career_summary": {
+        "total_jobs": 9,
+        "first_job": "stock broker",
+        "last_job": "business developer",
+        "career_span": "Q1 1984 to Q4 2018"
+      }
+    },
+    {
+      "person_id": 282,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 293,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 297,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 307,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 311,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "administrative assistant",
+        "first_job_period": "Q3 1990 to Q1 1998",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as an administrative assistant did not set a strong foundation for subsequent roles, as the individual remained in the same position for an extended period. The career evolved slowly, with the individual holding the same title for the first four jobs, indicating a lack of significant progression or growth. However, the fifth job as a science teacher secondary school marked a significant career pivot, suggesting that the individual's career trajectory was not heavily influenced by the first job. The overall impact of the first job on the career path was limited, as it did not lead to a clear progression of roles or responsibilities.",
+        "key_transitions": [
+          "Q1 2008: administrative assistant to science teacher secondary school"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the individual's career path was marked by a significant pivot away from administrative roles, indicating that the first job did not have a lasting impact on their career trajectory."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "administrative assistant",
+        "last_job": "science teacher secondary school",
+        "career_span": "Q3 1990 to Q2 2008"
+      }
+    },
+    {
+      "person_id": 312,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "administrative assistant",
+        "first_job_period": "Q1 2008 to Q4 2017",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as an administrative assistant did not set a strong foundation for subsequent roles, as the career trajectory shows a significant shift towards more technical and customer-facing positions. The transition from administrative assistant to ICT help desk agent, and then to customer contact centre information clerk, indicates a career evolution towards roles that require more technical expertise and customer interaction. However, the final role as a shop assistant seems unrelated to the previous roles, suggesting a career pivot. The overall impact of the first job on the career path appears to be minimal, as the individual's career trajectory is marked by frequent changes and a lack of consistency.",
+        "key_transitions": [
+          "administrative assistant to ICT help desk agent",
+          "ICT help desk agent to customer contact centre information clerk",
+          "customer contact centre information clerk to shop assistant"
+        ],
+        "conclusion": "no, the first job did not significantly influence the person's career path due to the lack of consistency and the presence of a career pivot"
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "administrative assistant",
+        "last_job": "shop assistant",
+        "career_span": "Q1 2008 to Q3 2019"
+      }
+    },
+    {
+      "person_id": 313,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "checkout supervisor",
+        "first_job_period": "Q1 2018 to Q4 2019",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a checkout supervisor did not set a strong foundation for subsequent roles, as the person transitioned into a shop assistant position, which has different responsibilities and requirements. The career evolved from a supervisory role to an assistant role, indicating a potential step backward or a change in career aspirations. There was a career pivot, as the person moved from overseeing cashiers to performing assistance duties, which suggests that the first job may not have been a crucial stepping stone for the person's long-term career goals. The overall impact of the first job on the career path appears to be minimal, as the person's career trajectory did not build upon the skills and experience gained in the first job.",
+        "key_transitions": [
+          "Transition from supervisory to assistant role",
+          "Change from overseeing cashiers to performing general shop duties"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the person's career trajectory did not build upon the skills and experience gained in the first job, and the transition to the second job represented a pivot rather than a progression."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "checkout supervisor",
+        "last_job": "shop assistant",
+        "career_span": "Q1 2018 to Q4 2019"
+      }
+    },
+    {
+      "person_id": 318,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "administrative assistant",
+        "first_job_period": "Q1 2009 to Q4 2010",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as an administrative assistant set a foundation for the subsequent role, as the person remained in the same position with the same job title and responsibilities. The career evolved with a gap in employment, but the trajectory remained consistent, with no significant pivot or change in job function. The first job provided a basis for the development of administrative skills, which were likely utilized in the second job, indicating a strong influence on the career path. The consistency in job title and responsibilities suggests that the first job played a significant role in shaping the person's career. The gap in employment between the two jobs does not appear to have disrupted the career trajectory, as the person returned to the same role, indicating a high level of career path consistency. Overall, the first job had a lasting impact on the career path, as it established a foundation for future administrative roles.",
+        "key_transitions": [],
+        "conclusion": "yes, the first job mattered significantly because it established a foundation for the person's career as an administrative assistant and influenced their subsequent role in the same position."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "administrative assistant",
+        "last_job": "administrative assistant",
+        "career_span": "Q1 2009 to Q4 2014"
+      }
+    },
+    {
+      "person_id": 320,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "administrative assistant",
+        "first_job_period": "Q1 2000 to Q4 2002",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as an administrative assistant set a foundation for subsequent roles, as the individual continued to work in the same capacity throughout their career. The career evolved from the first job with consistent job titles and descriptions, indicating a high level of consistency. There was no significant career pivot, and the trajectory remained consistent, with the individual returning to administrative assistant roles after periods of university studies. The overall impact of the first job on the career path was significant, as it established a pattern of administrative work that continued throughout their career. The fact that the individual returned to administrative assistant roles after pursuing university studies suggests that the first job had a lasting impact on their career choices. The consistency in job titles and descriptions across all three jobs further supports the idea that the first job had a strong influence on the individual's career path. Overall, the career trajectory suggests that the first job played a crucial role in shaping the individual's career, with the individual consistently returning to administrative assistant roles.",
+        "key_transitions": [],
+        "conclusion": "yes, the first job mattered significantly because it established a consistent career pattern that the individual returned to throughout their career"
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "administrative assistant",
+        "last_job": "administrative assistant",
+        "career_span": "Q1 2000 to Q4 2015"
+      }
+    },
+    {
+      "person_id": 323,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 326,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 329,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 330,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "secretary",
+        "first_job_period": "Q1 2002 to Q4 2003",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a secretary set a foundation for subsequent administrative roles, such as administrative assistant and legal administrative assistant, by providing essential skills in office management, communication, and organization. However, the career trajectory also shows a pivot towards roles in the real estate and insurance industries, such as title closer and insurance clerk, which may not be directly related to the initial job as a secretary. The evolution of the career path suggests that the individual leveraged their administrative skills to transition into various industries, with the first job serving as a stepping stone for developing fundamental skills. The overall impact of the first job on the career path is moderate, as it provided a foundation for administrative roles but did not directly determine the specific industries or job titles that followed.",
+        "key_transitions": [
+          "Transition from administrative roles to title closer in the real estate industry",
+          "Shift from title closer to insurance clerk in the insurance industry",
+          "Move from insurance clerk to legal administrative assistant, returning to an administrative role"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it provided essential administrative skills that were leveraged throughout the career trajectory, even if the specific industries and job titles changed over time."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "secretary",
+        "last_job": "legal administrative assistant",
+        "career_span": "Q1 2002 to Q4 2018"
+      }
+    },
+    {
+      "person_id": 341,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "modern languages teacher secondary school",
+        "first_job_period": "Q1 1996 to Q3 2017",
+        "career_path_consistency": "low",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a modern languages teacher at a secondary school provided a foundation in language instruction and education, which could be seen as a precursor to the role of a language engineer. However, the career evolved significantly from education to computing science, specifically natural language processing, indicating a career pivot. The first job likely influenced the development of strong language skills and an understanding of linguistics, which are essential for a language engineer. The career trajectory remained in the realm of languages but transitioned from a teaching role to a more technical and programming-oriented role. The overall impact of the first job on the career path was moderate, as it laid the groundwork for the language aspects but not directly for the computing science aspects of the subsequent role.",
+        "key_transitions": [
+          "Transition from education to computing science",
+          "Shift from teaching to natural language processing"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it developed the language skills and understanding of linguistics that are crucial for a language engineer, even though the career path took a significant pivot into computing science."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "modern languages teacher secondary school",
+        "last_job": "language engineer",
+        "career_span": "Q1 1996 to Q3 2017"
+      }
+    },
+    {
+      "person_id": 343,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 348,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "quality services manager",
+        "first_job_period": "Q4 2008 to Q4 2009",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a quality services manager did not set a clear foundation for subsequent roles, as the career trajectory shows significant shifts in job titles and industries. The career evolved with a mix of administrative, support, and educational roles, indicating a lack of consistency in the career path. There was a notable career pivot from administrative and support roles to becoming a secondary school teacher, which suggests that the first job did not have a lasting impact on the career trajectory. The overall impact of the first job on the career path appears to be minimal, as the individual explored various fields and roles without a clear connection to the initial job.",
+        "key_transitions": [
+          "From quality services manager to office manager and parliamentary assistant, indicating a shift towards administrative and support roles",
+          "From administrative and support roles to secondary school teacher, marking a significant career pivot"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the career trajectory shows a lack of consistency and a significant pivot away from the initial job's industry and responsibilities."
+      },
+      "career_summary": {
+        "total_jobs": 4,
+        "first_job": "quality services manager",
+        "last_job": "secondary school teacher",
+        "career_span": "Q4 2008 to Q2 2013"
+      }
+    },
+    {
+      "person_id": 349,
+      "status": "skipped",
+      "reason": "Only one job in career trajectory"
+    },
+    {
+      "person_id": 353,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "warehouse worker",
+        "first_job_period": "Q1 1984 to Q4 1985",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a warehouse worker laid a foundation for subsequent roles in inventory management. The career evolved from a general warehouse role to more specialized positions as an inventory coordinator, which suggests a natural progression. However, there was a brief detour as a cashier, which may indicate a career pivot or exploration of different fields. The overall impact of the first job on the career path is moderate, as it introduced the person to the logistics and supply chain industry, but the career trajectory was not entirely linear. The person's university studies during each job period may have also influenced their career choices and progression. The consistency in the career path is medium, as the person spent a significant amount of time in inventory coordination roles, but also explored other fields. The first job's influence can be seen in the person's eventual specialization in inventory coordination, which is closely related to their initial warehouse worker role.",
+        "key_transitions": [
+          "warehouse worker to cashier",
+          "cashier to inventory coordinator"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it introduced the person to the logistics industry and laid a foundation for their future specialization in inventory coordination"
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "warehouse worker",
+        "last_job": "inventory coordinator",
+        "career_span": "Q1 1984 to Q4 2014"
+      }
+    },
+    {
+      "person_id": 369,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "drawing artist",
+        "first_job_period": "Q1 2012 to Q4 2014",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a drawing artist does not seem to have set a direct foundation for the subsequent roles. The career evolved significantly from the first job, with transitions into completely different fields such as child care and library assistance. There was a notable career pivot from a creative role to roles that are more service-oriented and less directly related to the skills likely developed as a drawing artist. The overall impact of the first job on the career path appears to be minimal, as the individual's career trajectory does not demonstrate a clear, consistent progression from the initial role.",
+        "key_transitions": [
+          "From drawing artist to child care worker",
+          "From child care worker to library assistant"
+        ],
+        "conclusion": "No, the first job did not significantly influence the person's career path, as evidenced by the lack of direct connection between the skills and roles of the first job and the subsequent positions held."
+      },
+      "career_summary": {
+        "total_jobs": 3,
+        "first_job": "drawing artist",
+        "last_job": "library assistant",
+        "career_span": "Q1 2012 to Q1 2017"
+      }
+    },
+    {
+      "person_id": 375,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "technical sales representative in electronic and telecommunications equipment",
+        "first_job_period": "Q4 1996 to Q1 1998",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a technical sales representative in electronic and telecommunications equipment set a foundation for subsequent roles, particularly in the ICT and sales sectors. The career evolved from this first job with transitions into relationship banking, ICT account management, and sales account management, indicating a consistent theme of sales and customer relationship management. However, there was a notable career pivot when the individual transitioned into a lottery manager role, which marked a significant departure from the previous career trajectory. The first job's influence can be seen in the development of skills such as technical insight, sales techniques, and customer relationship management, which were valuable in subsequent roles.",
+        "key_transitions": [
+          "Transition from technical sales to relationship banking (Q1 1998)",
+          "Transition from ICT account management to sales account management (Q3 2002)",
+          "Transition from sales account management to lottery management (Q2 2012)"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it established a foundation in sales and customer relationship management, which was built upon in subsequent roles, even if the career trajectory was not entirely consistent."
+      },
+      "career_summary": {
+        "total_jobs": 7,
+        "first_job": "technical sales representative in electronic and telecommunications equipment",
+        "last_job": "lottery manager",
+        "career_span": "Q4 1996 to Q3 2014"
+      }
+    },
+    {
+      "person_id": 376,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "cosmetics and perfume specialised seller",
+        "first_job_period": "Q2 2015 to Q2 2016",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a cosmetics and perfume specialised seller laid a foundation in sales and customer service, which is evident in subsequent roles such as pedicurist, shoe and leather accessories specialised seller, and shop assistant. However, the career trajectory also shows evolution towards more diverse roles, indicating that while the first job provided a starting point, it did not strictly define the career path. The transition from sales and beauty-related roles to a secretary position marks a significant pivot, suggesting that the individual's career aspirations or interests expanded beyond the initial field. The overall impact of the first job is moderate, as it contributed to the development of transferable skills but did not dictate the long-term career direction.",
+        "key_transitions": [
+          "From pedicurist to shoe and leather accessories specialised seller",
+          "From shop assistant to secretary"
+        ],
+        "conclusion": "yes, with the reasoning that the first job provided foundational skills in sales and customer service that were beneficial in subsequent roles, even if the career path eventually pivoted towards administrative work."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "cosmetics and perfume specialised seller",
+        "last_job": "secretary",
+        "career_span": "Q2 2015 to Q3 2019"
+      }
+    },
+    {
+      "person_id": 378,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "purchaser",
+        "first_job_period": "Q1 1996 to Q3 1998",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as a purchaser set a foundation for subsequent roles, as the individual continued to work in purchasing-related positions throughout their career. The career evolved from the first job with the individual taking on more senior roles, such as purchasing manager, which indicates a natural progression and growth in their career. There were no significant career pivots, and the trajectory remained consistent, with the individual returning to purchasing roles after taking on a purchasing manager position. The first job had a significant impact on the career path, as it established a clear direction and area of expertise for the individual. The fact that the individual returned to purchasing roles after taking on a purchasing manager position suggests that the first job had a lasting influence on their career choices. Overall, the career trajectory suggests that the first job played a crucial role in shaping the individual's career path, and that they continued to build on the skills and experience gained in that role.",
+        "key_transitions": [
+          "purchaser to purchasing manager (Q2 2001)",
+          "purchasing manager to purchaser (Q3 2005)",
+          "purchaser to purchasing manager (Q4 2011)"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it established a clear direction and area of expertise for the individual, and had a lasting influence on their career choices, with the individual continuing to work in purchasing-related roles throughout their career."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "purchaser",
+        "last_job": "purchasing manager",
+        "career_span": "Q1 1996 to Q3 2012"
+      }
+    },
+    {
+      "person_id": 381,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "tour organiser",
+        "first_job_period": "Q1 2002 to Q4 2003",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a tour organiser does not appear to have set a direct foundation for subsequent roles, as the career path takes a significant turn with the second job as a medical records clerk. The career evolves with a mix of jobs in planning, management, and service industries, indicating a lack of consistency in the career trajectory. There are multiple career pivots, including a shift from tour organising to medical records, and later to roles in land planning, data warehouse design, and contact centre management. The overall impact of the first job on the career path seems minimal, as the individual explores various fields without a clear connection to the initial role.",
+        "key_transitions": [
+          "Tour organiser to medical records clerk",
+          "Medical records clerk to land planner",
+          "Land planner to data warehouse designer",
+          "Data warehouse designer to contact centre manager",
+          "Contact centre manager to rooms division manager and farm manager"
+        ],
+        "conclusion": "No, the first job did not matter significantly, as the career path is marked by multiple pivots and a lack of direct connection to the initial role, indicating that the individual's career trajectory was not heavily influenced by their first job as a tour organiser."
+      },
+      "career_summary": {
+        "total_jobs": 9,
+        "first_job": "tour organiser",
+        "last_job": "computer shop manager",
+        "career_span": "Q1 2002 to Q4 2016"
+      }
+    },
+    {
+      "person_id": 384,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "waiter/waitress",
+        "first_job_period": "Q2 2012 to Q2 2014",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a waiter/waitress may have laid the groundwork for subsequent roles in customer-facing positions, such as receptionist and customer service representative. The career trajectory shows a mix of administrative and customer service roles, indicating that the individual leveraged the communication and interpersonal skills gained from the first job to transition into these positions. However, there is no clear linear progression, and the career path is marked by periods of overlap and repetition, suggesting that the individual may have been exploring different aspects of customer service and administration. The evolution of the career from the first job is characterized by a gradual shift towards more formal office settings, with the individual taking on roles that require strong communication and organizational skills.",
+        "key_transitions": [
+          "Transition from waiter/waitress to administrative assistant",
+          "Shift from administrative assistant to receptionist",
+          "Movement from receptionist to customer service representative"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it likely helped the individual develop essential customer service skills that were applied in subsequent roles, even if the career path was not entirely linear or consistent."
+      },
+      "career_summary": {
+        "total_jobs": 7,
+        "first_job": "waiter/waitress",
+        "last_job": "receptionist",
+        "career_span": "Q2 2012 to Q4 2017"
+      }
+    },
+    {
+      "person_id": 388,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "sales assistant",
+        "first_job_period": "Q1 2011 to Q4 2011",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a sales assistant provided a foundation in customer interaction and sales, which could be beneficial in various roles. The career evolved from this point with the person taking on a shop manager role, indicating a potential interest in management and leadership. However, the transition from sales to shop management may indicate a slight pivot, as the roles differ in responsibilities and focus areas. The first job likely contributed to the development of essential skills such as communication, problem-solving, and customer service, which are valuable in the subsequent role. The overall career trajectory shows a progression towards more responsibilities, but the consistency in terms of industry or specific job functions is not strongly evident. The university studies during both jobs suggest a continuous effort to enhance knowledge and skills, potentially influencing career choices and progression.",
+        "key_transitions": [
+          "Transition from sales assistant to shop manager, indicating a move towards management",
+          "Potential industry shift, as the roles may be in different sectors"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it likely provided foundational skills in sales and customer interaction that are transferable to other roles, including the shop manager position, and contributed to the person's career progression towards more responsible positions."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "sales assistant",
+        "last_job": "shop manager",
+        "career_span": "Q1 2011 to Q4 2012"
+      }
+    },
+    {
+      "person_id": 404,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "youth worker",
+        "first_job_period": "Q1 2009 to Q4 2011",
+        "career_path_consistency": "low",
+        "first_job_influence": "weak",
+        "analysis": "The first job as a youth worker did not appear to set a direct foundation for the subsequent role as an ICT help desk agent, as the two jobs are quite distinct in terms of their responsibilities and required skills. The career evolved significantly from the first job, with a notable shift from a role focused on social development and community projects to one centered on technical support and computer systems. This transition suggests a career pivot rather than a consistent trajectory, indicating that the first job may not have had a lasting impact on the person's career path. The gap in time between the two jobs, with the individual likely pursuing further education or other opportunities, further supports the idea that the first job was not a determining factor in the person's long-term career direction. Overall, the first job seems to have been a stepping stone or an exploratory phase in the person's career, rather than a defining role that shaped their future professional path.",
+        "key_transitions": [
+          "Shift from social development to technical support",
+          "Transition from community projects to computer systems"
+        ],
+        "conclusion": "no, because the first job as a youth worker did not directly influence the subsequent role as an ICT help desk agent, and the career path shows a significant pivot rather than consistency"
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "youth worker",
+        "last_job": "ICT help desk agent",
+        "career_span": "Q1 2009 to Q4 2016"
+      }
+    },
+    {
+      "person_id": 411,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "customer service representative",
+        "first_job_period": "Q3 2006 to Q2 2008",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a customer service representative laid a foundation in handling customer complaints and maintaining goodwill, which could be transferable to other roles requiring strong communication skills. However, the transition to an administrative assistant role indicates a shift in focus towards office support rather than direct customer interaction. This evolution suggests that while the first job provided valuable experience, it did not directly dictate the subsequent career path. The career trajectory remained somewhat consistent in terms of supporting roles, but there was a pivot from customer-facing to administrative tasks. The overall impact of the first job on the career path is moderate, as it contributed to the development of transferable skills but did not define the career path.",
+        "key_transitions": [
+          "Transition from customer service to administrative support"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it helped develop essential communication and problem-solving skills that are valuable in various roles, including the subsequent administrative assistant position."
+      },
+      "career_summary": {
+        "total_jobs": 2,
+        "first_job": "customer service representative",
+        "last_job": "administrative assistant",
+        "career_span": "Q3 2006 to Q1 2009"
+      }
+    },
+    {
+      "person_id": 415,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "real estate agent",
+        "first_job_period": "Q1 2009 to Q4 2010",
+        "career_path_consistency": "high",
+        "first_job_influence": "strong",
+        "analysis": "The first job as a real estate agent set a foundation for subsequent roles, as the individual continued to work in the same field for the majority of their career. The career evolved from the first job with the individual gaining more experience and potentially developing a specialization within the real estate sector. Although there was a brief pivot to a commercial sales representative role, the trajectory remained largely consistent, with the individual returning to their role as a real estate agent. The first job had a significant impact on the career path, as it established a pattern of working in real estate that continued for most of the individual's career. The skills and knowledge gained in the first job, such as negotiating, composing sales contracts, and liaising with third parties, were likely transferable to subsequent roles. The individual's decision to return to the real estate agent role after a brief stint as a commercial sales representative suggests that the first job had a lasting influence on their career choices. Overall, the first job played a crucial role in shaping the individual's career trajectory, providing a foundation for future roles and influencing their decision to remain in the real estate sector.",
+        "key_transitions": [
+          "Q1 2013 to Q2 2013: brief transition to the same role, but potentially a change in employer or location",
+          "Q3 2013 to Q4 2013: pivot to commercial sales representative",
+          "Q1 2014 to Q1 2015: return to real estate agent role"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it established a pattern of working in real estate that continued for most of the individual's career and provided a foundation for the development of transferable skills"
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "real estate agent",
+        "last_job": "real estate agent",
+        "career_span": "Q1 2009 to Q1 2015"
+      }
+    },
+    {
+      "person_id": 416,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "water treatment systems operator",
+        "first_job_period": "Q1 1997 to Q4 2004",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a water treatment systems operator laid a foundation in terms of understanding process operations and environmental standards, which is reflected in subsequent roles such as process engineer and analytical chemist. However, the career trajectory shows significant diversification, with roles in instrumentation engineering, building inspection, and biomedical science, indicating that while the first job provided a technical foundation, it did not strictly define the career path. The evolution from the first job involved a series of transitions that leveraged the initial technical expertise but expanded into new areas, suggesting a moderate influence of the first job on the overall career trajectory.",
+        "key_transitions": [
+          "From water treatment to process engineering (Q1 1997 to Q3 2005)",
+          "Introduction to instrumentation engineering (Q4 2005 to Q3 2006)",
+          "Shift to biomedical science (Q2 2010 to Q4 2012)"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it provided a foundational understanding of process operations and environmental standards that were leveraged in various forms throughout the career, even as the individual transitioned into diverse roles."
+      },
+      "career_summary": {
+        "total_jobs": 8,
+        "first_job": "water treatment systems operator",
+        "last_job": "chemical manufacturing quality technician",
+        "career_span": "Q1 1997 to Q1 2014"
+      }
+    },
+    {
+      "person_id": 432,
+      "status": "success",
+      "analysis": {
+        "first_job_title": "maintenance and repair engineer",
+        "first_job_period": "Q1 1993 to Q4 1997",
+        "career_path_consistency": "medium",
+        "first_job_influence": "moderate",
+        "analysis": "The first job as a maintenance and repair engineer laid a foundation in understanding the optimization of equipment and procedures, which may have contributed to the development of problem-solving skills. However, the career path took a significant turn with the transition to a software analyst role, indicating a pivot towards the information and communication technology (ICT) sector. The subsequent roles in ICT project management and vendor relationship management suggest that the individual leveraged their analytical skills to adapt to new areas within the ICT industry. The return to an ICT project manager role after a brief stint as a vendor relationship manager indicates a consistent interest in managing ICT projects, despite the initial career start in maintenance and repair.",
+        "key_transitions": [
+          "From maintenance and repair engineer to software analyst",
+          "From software analyst to ICT project manager",
+          "From ICT project manager to ICT vendor relationship manager and back to ICT project manager"
+        ],
+        "conclusion": "yes, the first job mattered significantly because it likely developed foundational skills in analysis and problem-solving that were later applied in various ICT roles, even though the career path evolved substantially from the initial job title."
+      },
+      "career_summary": {
+        "total_jobs": 5,
+        "first_job": "maintenance and repair engineer",
+        "last_job": "ICT project manager",
+        "career_span": "Q1 1993 to Q4 2015"
+      }
+    }
+  ]
+}
